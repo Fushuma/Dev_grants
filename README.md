@@ -32,7 +32,7 @@ The Development Grants Program supports innovation within our ecosystem by fundi
 ## How to Apply
 
 1. Add your proposal using the template provided.
-2. Submit a Pull Request to initiate the review process.
+2. Submit (https://github.com/Fushuma/Dev_grants/issues) to initiate the review process.
 
 ## Join Our Community
 
