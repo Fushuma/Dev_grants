@@ -31,9 +31,8 @@ The Development Grants Program supports innovation within our ecosystem by fundi
 
 ## How to Apply
 
-1. Fork the repository.
-2. Add your proposal using the template provided.
-3. Submit a Pull Request to initiate the review process.
+1. Add your proposal using the template provided.
+2. Submit a Pull Request to initiate the review process.
 
 ## Join Our Community
 
